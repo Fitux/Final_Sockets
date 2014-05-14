@@ -1,0 +1,7 @@
+MODO DE USO
+
+./webserver -p [puerto]
+
+BROWSER
+
+localhost:[puerto]/[archivo]
